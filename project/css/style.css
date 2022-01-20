@@ -1,0 +1,14 @@
+
+/* ---------  GLOBAL STYLES  --------- */
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+
+
+body {
+  background-attachment: fixed;
+}
